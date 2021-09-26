@@ -1,0 +1,63 @@
+---
+title: partyStatusMessage
+---
+//[Perry](../../../index.html)/[tools](../index.html)/[MaplePacketCreator](index.html)/[partyStatusMessage](party-status-message.html)
+
+
+
+# partyStatusMessage
+
+
+
+[jvm]\
+open fun [partyStatusMessage](party-status-message.html)(message: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)): [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html)<[Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html)>
+
+
+
+10: A beginner can't create a party. 1/11/14/19: Your request for a party didn't work due to an unexpected error. 13: You have yet to join a party. 16: Already have joined a party. 17: The party you're trying to join is already in full capacity. 19: Unable to find the requested character in this channel.
+
+
+
+#### Return
+
+
+
+## Parameters
+
+
+jvm
+
+| | |
+|---|---|
+| message |  |
+
+
+
+
+
+[jvm]\
+open fun [partyStatusMessage](party-status-message.html)(message: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), charname: [String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)): [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html)<[Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html)>
+
+
+
+23: 'Char' have denied request to the party.
+
+
+
+#### Return
+
+
+
+## Parameters
+
+
+jvm
+
+| | |
+|---|---|
+| message |  |
+| charname |  |
+
+
+
+

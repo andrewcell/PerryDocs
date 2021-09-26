@@ -1,0 +1,25 @@
+---
+title: REMOVE_PLAYER_FROM_MAP
+---
+//[Perry](../../../../index.html)/[net](../../index.html)/[SendPacketOpcode](../index.html)/[REMOVE_PLAYER_FROM_MAP](index.html)
+
+
+
+# REMOVE_PLAYER_FROM_MAP
+
+
+
+[jvm]\
+[REMOVE_PLAYER_FROM_MAP](index.html)()
+
+
+
+## Properties
+
+
+| Name | Summary |
+|---|---|
+| [name](name.html) | [jvm]<br>val [name](name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [ordinal](ordinal.html) | [jvm]<br>val [ordinal](ordinal.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
+| [value](value.html) | [jvm]<br>var [value](value.html): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
+

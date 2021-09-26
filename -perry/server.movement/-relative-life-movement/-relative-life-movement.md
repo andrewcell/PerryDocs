@@ -1,0 +1,17 @@
+---
+title: RelativeLifeMovement
+---
+//[Perry](../../../index.html)/[server.movement](../index.html)/[RelativeLifeMovement](index.html)/[RelativeLifeMovement](-relative-life-movement.html)
+
+
+
+# RelativeLifeMovement
+
+
+
+[jvm]\
+fun [RelativeLifeMovement](-relative-life-movement.html)(type: [Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html), position: [Point](https://docs.oracle.com/javase/8/docs/api/java/awt/Point.html), duration: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), newState: [Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html))
+
+
+
+
