@@ -1,0 +1,35 @@
+---
+title: AbstractMovementPacketHandler
+---
+//[Perry](../../../index.html)/[net.server.channel.handlers](../index.html)/[AbstractMovementPacketHandler](index.html)
+
+
+
+# AbstractMovementPacketHandler
+
+
+
+[jvm]\
+abstract class [AbstractMovementPacketHandler](index.html) : [AbstractPacketHandler](../../net/-abstract-packet-handler/index.html)
+
+
+
+## Functions
+
+
+| Name | Summary |
+|---|---|
+| [handlePacket](../-item-pickup-handler/index.html#1449422769%2FFunctions%2F863300109) | [jvm]<br>abstract fun [handlePacket](../-item-pickup-handler/index.html#1449422769%2FFunctions%2F863300109)(slea: [Null](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-null/index.html), c: [Null](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-null/index.html)) |
+| [validateState](../-item-pickup-handler/index.html#1181896764%2FFunctions%2F863300109) | [jvm]<br>open fun [validateState](../-item-pickup-handler/index.html#1181896764%2FFunctions%2F863300109)(c: [Null](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-null/index.html)): [Null](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-null/index.html) |
+
+
+## Inheritors
+
+
+| Name |
+|---|
+| [MoveLifeHandler](../-move-life-handler/index.html) |
+| [MovePetHandler](../-move-pet-handler/index.html) |
+| [MovePlayerHandler](../-move-player-handler/index.html) |
+| [MoveSummonHandler](../-move-summon-handler/index.html) |
+

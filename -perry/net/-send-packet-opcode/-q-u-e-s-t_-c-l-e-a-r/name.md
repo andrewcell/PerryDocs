@@ -1,0 +1,17 @@
+---
+title: name
+---
+//[Perry](../../../../index.html)/[net](../../index.html)/[SendPacketOpcode](../index.html)/[QUEST_CLEAR](index.html)/[name](name.html)
+
+
+
+# name
+
+
+
+[jvm]\
+val [name](name.html): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+
+
+

@@ -1,0 +1,17 @@
+---
+title: StatEffect
+---
+//[Perry](../../../index.html)/[server](../index.html)/[StatEffect](index.html)/[StatEffect](-stat-effect.html)
+
+
+
+# StatEffect
+
+
+
+[jvm]\
+fun [StatEffect](-stat-effect.html)(duration: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), hp: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), hpR: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), mp: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), mpR: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), hpCon: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), mpCon: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), prop: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), mobCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), cooldown: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), morphId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), ghost: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), fatigue: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), repeatEffect: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), sourceId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), skill: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), watk: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), wdef: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), matk: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), mdef: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), acc: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), avoid: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), speed: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), jump: [Short](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-short/index.html), berserk: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), booster: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), overTime: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), x: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), y: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), damage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), fixDamage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), attackCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), bulletCount: [Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html), bulletConsume: [Byte](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte/index.html), moneyCon: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), itemCon: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), itemConNo: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), moveTo: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+
+
+
+
